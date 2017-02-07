@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b93135b-305e-413a-b90d-a6e32d332abe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/products/productListCtrl.js" afterPath="$PROJECT_DIR$/app/products/productListCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/services/productResourceMock.js" afterPath="$PROJECT_DIR$/common/services/productResourceMock.js" />
     </list>
     <ignored path="productManagement.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="productListCtrl.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="productListCtrl.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/products/productListCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -556,11 +553,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productResourceMock.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="productResourceMock.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common/services/productResourceMock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+            <state relative-caret-position="436">
+              <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -588,9 +585,9 @@
         <option value="$PROJECT_DIR$/js/angular-mocks.js" />
         <option value="$PROJECT_DIR$/js/angular-resource.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/common/services/productResourceMock.js" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/products/productListCtrl.js" />
+        <option value="$PROJECT_DIR$/common/services/productResourceMock.js" />
       </list>
     </option>
   </component>
@@ -776,12 +773,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486414331561</updated>
       <workItem from="1486414332781" duration="1653000" />
-      <workItem from="1486458243429" duration="4666000" />
+      <workItem from="1486458243429" duration="6762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6319000" />
+    <option name="totallyTimeSpent" value="8415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -1809,16 +1806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/services/productResourceMock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1832,6 +1819,16 @@
         <state relative-caret-position="255">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/services/productResourceMock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
